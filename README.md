@@ -14,8 +14,8 @@ Berdasarkan kartu nama / materi visual:
 - Proyektor
 - HT / Radio RI
 - DLL
-- Edi Januar
-- WhatsApp: 0856 7578 388 / 0812 1182 4913
+- E. J. / PIC disamarkan
+- WhatsApp: [nomor disamarkan] / [nomor disamarkan]
 
 ## Struktur
 

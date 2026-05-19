@@ -23,9 +23,9 @@ Raihan Com menerima alat-alat bekas kantor, terutama:
 - Rak / unit perangkat elektronik kantor bekas
 
 ### Kontak utama
-- Edi Januar
-- WhatsApp: `08567578388`
-- WhatsApp: `081211824913`
+- E. J. / PIC disamarkan
+- WhatsApp: `[nomor disamarkan]`
+- WhatsApp: `[nomor disamarkan]`
 
 ### Masalah pengguna
 Pemilik kantor, teknisi, admin, atau pengelola aset sering punya alat kantor bekas yang sudah tidak dipakai. Mereka butuh pembeli / penerima yang bisa dihubungi cepat, jelas menerima kategori barang tertentu, dan tampak aman dipercaya.
@@ -161,8 +161,8 @@ Raihan Com menerima alat bekas kantor. Pengunjung bisa langsung kirim foto dan d
 
 ### Informasi wajib tampil
 - Brand name: Raihan Com
-- Person: Edi Januar
-- WhatsApp: `08567578388 / 081211824913`
+- Person: E. J. / PIC disamarkan
+- WhatsApp: `[nomor disamarkan] / [nomor disamarkan]`
 - Kategori barang dari OCR dan objek visual:
   - Panasonic PABX
   - Printer / fotokopi
@@ -176,8 +176,8 @@ Raihan Com menerima alat bekas kantor. Pengunjung bisa langsung kirim foto dan d
 Gunakan:
 
 ```text
-https://wa.me/628567578388
-https://wa.me/6281211824913
+https://wa.me/[nomor-disamarkan]
+https://wa.me/[nomor-disamarkan]
 ```
 
 Contoh prefilled message:
@@ -189,7 +189,7 @@ Halo Raihan Com, saya ingin menanyakan alat bekas kantor. Barang: [jenis barang]
 Encoded:
 
 ```text
-https://wa.me/628567578388?text=Halo%20Raihan%20Com%2C%20saya%20ingin%20menanyakan%20alat%20bekas%20kantor.%20Barang%3A%20%5Bjenis%20barang%5D.%20Kondisi%3A%20%5Bkondisi%5D.%20Lokasi%3A%20%5Blokasi%5D.%20Saya%20bisa%20kirim%20foto.
+https://wa.me/[nomor-disamarkan]?text=Halo%20Raihan%20Com%2C%20saya%20ingin%20menanyakan%20alat%20bekas%20kantor.%20Barang%3A%20%5Bjenis%20barang%5D.%20Kondisi%3A%20%5Bkondisi%5D.%20Lokasi%3A%20%5Blokasi%5D.%20Saya%20bisa%20kirim%20foto.
 ```
 
 ---
@@ -212,7 +212,7 @@ https://wa.me/628567578388?text=Halo%20Raihan%20Com%2C%20saya%20ingin%20menanyak
 **WhatsApp**
 
 ### Microcopy
-**Edi Januar**
+**E. J. / PIC disamarkan**
 
 ---
 
@@ -267,7 +267,7 @@ Untuk PABX, printer, CPU, proyektor, HT, radio komunikasi, dan perangkat elektro
 
 ### Card 2
 **Komunikasi langsung**  
-Hubungi Edi Januar lewat WhatsApp untuk mengirim foto, jumlah barang, dan kondisi unit.
+Hubungi E. J. / PIC disamarkan lewat WhatsApp untuk mengirim foto, jumlah barang, dan kondisi unit.
 
 ### Card 3
 **Cocok untuk satuan atau beberapa unit**  
@@ -323,12 +323,12 @@ Jika barang tidak ada di daftar, tetap bisa kirim foto lewat WhatsApp untuk peng
 **Raihan Com fokus pada alat bekas kantor**
 
 ### Body
-Raihan Com menerima alat-alat bekas kantor seperti PABX Panasonic, printer, CPU, proyektor, HT / radio komunikasi, dan perangkat elektronik kantor lain. Untuk penawaran barang, pelanggan dapat langsung menghubungi Edi Januar melalui WhatsApp.
+Raihan Com menerima alat-alat bekas kantor seperti PABX Panasonic, printer, CPU, proyektor, HT / radio komunikasi, dan perangkat elektronik kantor lain. Untuk penawaran barang, pelanggan dapat langsung menghubungi E. J. / PIC disamarkan melalui WhatsApp.
 
 ### Detail list
 - Nama usaha: Raihan Com
-- Kontak: Edi Januar
-- WhatsApp: `08567578388 / 081211824913`
+- Kontak: E. J. / PIC disamarkan
+- WhatsApp: `[nomor disamarkan] / [nomor disamarkan]`
 - Fokus: alat bekas kantor dan perangkat elektronik kantor
 
 ---
@@ -355,7 +355,7 @@ Lokasi membantu pengecekan dan pengaturan pengambilan bila diperlukan.
 
 ### Step 4
 **Lanjutkan lewat WhatsApp**  
-Edi Januar akan merespons melalui nomor WhatsApp yang tersedia.
+E. J. / PIC disamarkan akan merespons melalui nomor WhatsApp yang tersedia.
 
 ### CTA
 **Kirim detail barang sekarang**
@@ -374,18 +374,18 @@ Edi Januar akan merespons melalui nomor WhatsApp yang tersedia.
 Untuk menawarkan alat bekas kantor, hubungi langsung via WhatsApp. Kirim foto barang, kondisi, jumlah unit, dan lokasi barang.
 
 ### Contact card
-**Edi Januar**  
+**E. J. / PIC disamarkan**  
 Raihan Com
 
 **WhatsApp 1**  
-`08567578388`
+`[nomor disamarkan]`
 
 **WhatsApp 2**  
-`081211824913`
+`[nomor disamarkan]`
 
 ### Buttons
-**WhatsApp 08567578388**  
-**WhatsApp 081211824913**
+**WhatsApp [nomor disamarkan]**  
+**WhatsApp [nomor disamarkan]**
 
 ### Suggested message box
 Gunakan format pesan berikut agar proses pengecekan lebih mudah:
@@ -441,7 +441,7 @@ Tidak perlu. Komunikasi utama langsung lewat WhatsApp agar lebih cepat.
 Kirim foto dan detail barang ke Raihan Com melalui WhatsApp. Sertakan jenis barang, jumlah, kondisi, dan lokasi.
 
 ### CTA
-**Hubungi Edi Januar via WhatsApp**
+**Hubungi E. J. / PIC disamarkan via WhatsApp**
 
 ---
 
@@ -452,8 +452,8 @@ Kirim foto dan detail barang ke Raihan Com melalui WhatsApp. Sertakan jenis bara
 Menerima alat-alat bekas kantor.
 
 ### Contact
-Edi Januar  
-WhatsApp: `08567578388 / 081211824913`
+E. J. / PIC disamarkan  
+WhatsApp: `[nomor disamarkan] / [nomor disamarkan]`
 
 ### Footer nav
 - Layanan
@@ -508,7 +508,7 @@ Mobile-first single page.
 Primary WhatsApp link buka tab / app:
 
 ```html
-<a href="https://wa.me/628567578388?text=Halo%20Raihan%20Com%2C%20saya%20ingin%20menanyakan%20alat%20bekas%20kantor.%20Barang%3A%20%5Bjenis%20barang%5D.%20Kondisi%3A%20%5Bkondisi%5D.%20Lokasi%3A%20%5Blokasi%5D.%20Saya%20bisa%20kirim%20foto." target="_blank" rel="noopener">
+<a href="https://wa.me/[nomor-disamarkan]?text=Halo%20Raihan%20Com%2C%20saya%20ingin%20menanyakan%20alat%20bekas%20kantor.%20Barang%3A%20%5Bjenis%20barang%5D.%20Kondisi%3A%20%5Bkondisi%5D.%20Lokasi%3A%20%5Blokasi%5D.%20Saya%20bisa%20kirim%20foto." target="_blank" rel="noopener">
   Hubungi via WhatsApp
 </a>
 ```
@@ -759,7 +759,7 @@ Raihan Com — Menerima Alat Bekas Kantor
 
 ## Meta description
 ```text
-Raihan Com menerima alat bekas kantor seperti Panasonic PABX, printer, CPU, proyektor, HT / radio komunikasi, dan perangkat elektronik kantor lain. Hubungi Edi Januar via WhatsApp.
+Raihan Com menerima alat bekas kantor seperti Panasonic PABX, printer, CPU, proyektor, HT / radio komunikasi, dan perangkat elektronik kantor lain. Hubungi E. J. / PIC disamarkan via WhatsApp.
 ```
 
 ## Keywords
@@ -798,14 +798,14 @@ Gunakan tanpa alamat jika alamat tidak tersedia.
   "description": "Raihan Com menerima alat bekas kantor seperti Panasonic PABX, printer, CPU, proyektor, HT / radio komunikasi, dan perangkat elektronik kantor lain.",
   "contactPoint": {
     "@type": "ContactPoint",
-    "name": "Edi Januar",
-    "telephone": "+628567578388",
+    "name": "E. J. / PIC disamarkan",
+    "telephone": "+[nomor-disamarkan]",
     "contactType": "customer service",
     "availableLanguage": "Indonesian"
   },
   "sameAs": [
-    "https://wa.me/628567578388",
-    "https://wa.me/6281211824913"
+    "https://wa.me/[nomor-disamarkan]",
+    "https://wa.me/[nomor-disamarkan]"
   ]
 }
 ```
@@ -858,11 +858,11 @@ Website dianggap siap jika:
 
 - Semua kategori dari kartu nama tampil jelas
 - Nomor WhatsApp benar:
-  - `08567578388`
-  - `081211824913`
+  - `[nomor disamarkan]`
+  - `[nomor disamarkan]`
 - CTA WhatsApp berjalan ke:
-  - `https://wa.me/628567578388`
-  - `https://wa.me/6281211824913`
+  - `https://wa.me/[nomor-disamarkan]`
+  - `https://wa.me/[nomor-disamarkan]`
 - Tidak ada klaim palsu
 - Tidak ada testimonial palsu
 - Tidak ada logo klien palsu

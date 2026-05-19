@@ -53,7 +53,7 @@ components:
 
 ## Overview
 
-Raihan Com should feel like a credible local trade desk for office asset disposal: direct, calm, premium, and practical. The design borrows from Apple’s object-led restraint and showroom-like pacing, but keeps the Indonesian WhatsApp-first business reality visible.
+Raihan Com should feel like a credible local trade desk for office asset disposal: direct, calm, premium, and practical. The design borrows from Apple’s object-led restraint and showroom-like pacing, but keeps the Indonesian contact-first business reality visible without exposing private numbers.
 
 ## Colors
 
@@ -80,7 +80,7 @@ Cards can be softly rounded; product image containers should feel like clean stu
 
 ## Components
 
-Primary CTA is WhatsApp. Asset cards must always pair a clear label with a concrete object/category.
+Primary CTA is contact/detail submission. Asset cards must always pair a clear label with a concrete object/category.
 
 ## Do's and Don'ts
 
@@ -93,5 +93,5 @@ Do:
 Don't:
 - Use fake testimonials, fake stats, or fake client logos.
 - Use abstract AI blobs for equipment.
-- Hide the WhatsApp action.
+- Expose private phone numbers in template mode.
 - Overdecorate with generic SaaS gradients.
